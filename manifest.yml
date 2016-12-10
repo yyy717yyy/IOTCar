@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: workspace1
-  host: workspace1
+  name: IOTCar-Eagle
+  host: iotcar-eagle
   disk_quota: 1024M
